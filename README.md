@@ -97,10 +97,22 @@ https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 
 1、一些资料可以在github中搜索，很多，很方便
 
-2、仓库内容下载
+2、github.com下载
 
 ```bash
 git clone https://github.com/JackeyLea/NJUCS --depth 1
+```
+
+3、码云下载
+
+码云仓库最大为1G，如果仓库大小超出会被屏蔽访问，所以我删除了码云的仓库
+
+4、coding下载
+
+coding.net仓库大小为2G，经过测试速度还可以，如果github访问速度过慢可以考虑此处。
+
+```bash
+git clone https://e.coding.net/jackeylea/njucs/NJUCS.git
 ```
 
 ## 1.4. 联系方式
