@@ -325,9 +325,9 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
 
-PDF资料和中文版参考答案在：<a href="https://feater.top/exam/29/">CN</a>
+PDF资料和中文版参考答案在：<a href="https://feater.top/book/collections-of-compute-network-top-down-methond">CN</a>
 
-版本号：V2020.08.25
+版本号：V2020.12.31
 
 提醒，参考答案只是翻译完成并且修复了公式导出问题，内容并没有校正。使用的时候注意一点。
 
