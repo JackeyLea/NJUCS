@@ -6,7 +6,7 @@
 
 <font size="10">使用本仓库请完整的阅读本文档</font>
 
-如果内容显示异常，可以查看<a href="https://feater.top/ebooks/15/">此处</a>
+如果内容显示异常，可以查看<a href="https://feater.top/book/collections-of-njucs-postgraduate-examination-845-408">此处</a>
 
 ***资料包括：***
 
