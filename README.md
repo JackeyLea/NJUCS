@@ -1,8 +1,8 @@
 # 南京大学计算机考研408+845科目资料合集
 
-<img src="https://image.feater.top/njucs_南京大学图标.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="南京大学图标"></img>
+<img src="./image/njucs_icon.jpg" rel="南京大学图标"></img>
 
-<img src="https://image.feater.top/njucs_南京大学计算机科学与技术系图标.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="计算机系图标" />
+<img src="./image/njucs_compute_sicense_icon.jpg" rel="计算机系图标" />
 
 <font size="10">使用本仓库请完整的阅读本文档</font>
 
@@ -137,7 +137,7 @@ QQ：1768478912 （往事深处的少年）
 
 当然了，只是建议，说的不对，你不想听也不要顺着网线过来打我。
 
-<img src="https://image.feater.top/njucs_交流群号.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="交流群"></img>
+<img src="./image/njucs_qq.jpg" rel="交流群"></img>
 
 不是我的群，我又无权管理，阁下酌情处理。
 
@@ -147,7 +147,7 @@ QQ：1768478912 （往事深处的少年）
 
 群主授权
 
-<img src="https://image.feater.top/njucs_授权声明.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="群主授权" />
+<img src="./image/njucs_authorized.png" rel="群主授权" />
 
 如果觉得考研太难就放弃吧，人生苦短，及时行乐。
 
@@ -201,9 +201,9 @@ QQ：1768478912 （往事深处的少年）
 
 ## 1.7. 复试安排
 
-<img src="https://image.feater.top/njucs_复试安排.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="复试安排" />
+<img src="./image/njucs_retrial.png" rel="复试安排" />
 
-<img src="https://image.feater.top/njucs_复试安排2.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="复试安排" />
+<img src="./image/njucs_retrial2.png" rel="复试安排" />
 
 ## 1.8. 仓库内容
 
@@ -219,7 +219,7 @@ QQ：1768478912 （往事深处的少年）
 
 ***所谓的数据结构1800题，其实是由机械工业出版社出版的《算法与数据结构 考研试题精析》 陈守孔 胡潇琨 李玲编著。在淘宝可以买到第四版或者第三版。本仓库中的文档根据内容判断，应该是第二版或者更早的第一版的。***
 
-<img src="https://image.feater.top/njucs_算法与数据结构考研试题精析.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="1800题" />
+<img src="./image/njucs_complete_guide_to_algorithm_and_ds_for_posgraduate_admission_test.png" rel="1800题" />
 
 ### 1.8.3. 复试
 
@@ -235,7 +235,7 @@ QQ：1768478912 （往事深处的少年）
 
 ***从群里搞到的新版参考书目，来源未知***
 
-<img src="https://image.feater.top/njucs_845参考书目.PNG?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="新版参考资料" />
+<img src="./image/njucs_845_reference.png" rel="新版参考资料" />
 
 这是个845的，408的统考官方并没有给出参考书目。
 
@@ -245,7 +245,7 @@ QQ：1768478912 （往事深处的少年）
 
 ***划重点：不推荐张宇 你要是头铁另说***
 
-<img src="https://image.feater.top/njucs_数学一刷题顺序.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_math1_exercise_ordering.jpg" rel="封面" />
 
 #### 1.9.1.2. 英语一
 
@@ -253,7 +253,7 @@ QQ：1768478912 （往事深处的少年）
 
 当然了，以后看论文也方便。
 
-<a href="https://feater.top/ebooks/2261/">2005-2020考研英语真题数据分析报告</a>
+<a href="https://feater.top/data/the-anlysis-of-postgraduate-examination-data">2005-2020考研英语真题数据分析报告</a>
 
 #### 1.9.1.3. 政治
 
@@ -263,7 +263,7 @@ QQ：1768478912 （往事深处的少年）
 
 #### 1.9.1.4. 《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社
 
-<img src="https://image.feater.top/njucs_数据结构(第2版).png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_ds_2nd.png" rel="封面" />
 
 ***带星号的一般不会考***
 
@@ -281,11 +281,17 @@ QQ：1768478912 （往事深处的少年）
 
 #### 1.9.1.5. 《算法设计与分析(第二版)》黄宇，机械工业出版社
 
-<img src="https://image.feater.top/算法设计与分析.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/algorithm_design_and_analysis.jpg" rel="封面" />
 
 黄宇是南大教这门课的。
 
-<img src="https://image.feater.top/njucs_%E6%95%99%E5%B8%88.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" alt="黄宇"></img>
+<img src="./image/njucs_huangyu.png" alt="黄宇"></img>
+
+黄宇老师在B站上传了视频
+
+<a ref="https://www.bilibili.com/video/BV11341167sn">B站-战疫时期的算法课-南京大学-2020年春季</a>
+
+并且也会在之后更新勘误，同时在知乎发布文章表示不会写参考答案。
 
 重点动态规划、DP问题（背包/换硬币/跳台阶） ***主要是复试上机***
 
@@ -299,7 +305,7 @@ QQ：1768478912 （往事深处的少年）
 
 #### 1.9.1.6. 《操作系统教程（第5版）》费翔林、骆斌编著，高等教育出版社
 
-<img src="https://image.feater.top/njucs_操作系统教程.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_os_intro.png" rel="封面" />
 
 重点包括：中断、内存管理、PV操作（N生产者N消费者/共浴/理发师）
 
@@ -315,15 +321,15 @@ QQ：1768478912 （往事深处的少年）
 
 #### 1.9.1.8. 《计算机网络——自顶向下方法 (7th)》James F. Kurose, Keith W. Ross编著，机械工业出版社
 
-<img src="https://image.feater.top/计算机网络：自顶向下.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/cn_top_down_method.png" rel="封面" />
 
 重点：应用层（http）、传输层（TCP）、网络层（IpV4及相关协议）、链路层（以太网）、SSL
 
 视频：
 
-<a href="https://www.bilibili.com/video/av41404195?from=search&seid=1062244817660809468">计算机网络（自顶向下方法）</a>
+<a href="https://www.bilibili.com/video/av41404195">计算机网络（自顶向下方法）</a>
 
-<a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
+<a href="https://www.bilibili.com/video/av58999844">国防科技大学-计算机网络（国家级精品课）</a>
 
 PDF资料和中文版参考答案在：<a href="https://feater.top/book/collections-of-compute-network-top-down-methond">CN</a>
 
@@ -337,7 +343,7 @@ PDF资料和中文版参考答案在：<a href="https://feater.top/book/collecti
 
 #### 1.9.2.1. 《离散数学（第2版）》屈婉玲，高等教育出版社
 
-<img src="https://image.feater.top/njucs_离散数学.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_discrete_mathematics.png" rel="封面" />
 
 逻辑、计数计术、群论、图论、边收缩、非降路径
 
@@ -353,19 +359,19 @@ PDF资料和中文版参考答案在：<a href="https://feater.top/book/collecti
 
 #### 1.9.2.2. 《离散数学及其应用（原书第6版）》Rosen，机械工业出版社
 
-<img src="https://image.feater.top/njucs_离散数学及其应用.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_discrete_mathematics_and_its_applications.png" rel="封面" />
 
 课后习题参考答案还没有整理.
 
 #### 1.9.2.3. 《程序设计教程 用C++语言描述》陈家俊，机械工业出版社
 
-<img src="https://image.feater.top/njucs_程序设计教程.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_fundamentals_of_programming_with_cpp.png" rel="封面" />
 
 课后习题参考答案还没有整理.
 
 #### 1.9.2.4. 《编译原理》（又名龙书），机械工业出版社；
 
-<img src="https://image.feater.top/njucs_编译原理.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="封面" />
+<img src="./image/njucs_compilers.png" rel="封面" />
 
 DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
@@ -373,7 +379,7 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 视频：
 
-<a href="https://www.bilibili.com/video/av17649289?from=search&seid=7144683529622357495">编译原理（哈工大）</a>
+<a href="https://www.bilibili.com/video/av17649289">编译原理（哈工大）</a>
 
 课后习题参考答案还没有整理.
 
@@ -381,11 +387,11 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 ## 1.11. 南京大学概况
 
-<img src="https://image.feater.top/njucs_%E5%8D%97%E5%A4%A7%E6%A6%82%E5%86%B5.png?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" alt="概况"></img>
+<img src="./image/njucs_intro.png" alt="概况"></img>
 
 ### 1.11.1. 本科课表
 
-<img src="https://image.feater.top/njucs_南京大学计算机专业课.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="本科课表" />
+<img src="./image/njucs_cs_course.jpg" rel="本科课表" />
 
 ### 1.11.2. 硕士研究生课表
 
@@ -393,23 +399,23 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 ### 1.11.3. 路线-地铁
 
-<img src="https://image.feater.top/njucs_到南大地铁线路.PNG?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="路线" />
+<img src="./image/njucs_metro.PNG" rel="路线" />
 
 ### 1.11.4. 南大仙林校区介绍
 
-<img src="https://image.feater.top/njucs_南京大学仙林校区介绍.JPG?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="介绍" />
+<img src="./image/njucs_xianlin_introduction.JPG" rel="介绍" />
 
 ### 1.11.5. 南大仙林校区地图
 
-<img src="https://image.feater.top/njucs_南京大学仙林校区地图.PNG?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="地图" />
+<img src="./image/njucs_xianlin_map.PNG" rel="地图" />
 
 ### 1.11.6. 校车班车列表
 
-<img src="https://image.feater.top/njucs_南京大学校园班车时间列表.JPG?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="班车" />
+<img src="./image/njucs_bus_time_table.jpg" rel="班车" />
 
 ### 1.11.7. 南大机构电话
 
-<img src="https://image.feater.top/njucs_南京大学组织机构电话.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="机构电话" />
+<img src="./image/njucs_institution_telephone.jpg" rel="机构电话" />
 
 ## 1.12. 参考资料
 
@@ -447,7 +453,9 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 我，幽弥狂，打钱。
 
-<img src="https://image.feater.top/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" alt="支付宝" />
+<img src="./image/alipay_qrcode.jpg" alt="支付宝" />
+
+<img src="./image/wechat_qrcode.jpg" alt="微信" />
 
 如果有空，可以到我的<a href="https://feater.top">个人博客</a>上面看看。
 
