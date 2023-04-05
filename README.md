@@ -285,9 +285,7 @@ QQ：1768478912 （往事深处的少年）
 
 黄宇是南大教这门课的。
 
-<img src="./image/njucs_huangyu.png" alt="黄宇"></img>
-
-黄宇老师在B站上传了视频
+黄宇老师在B站上传了视频，同时在知乎发布声明不会提供参考答案。
 
 <a ref="https://www.bilibili.com/video/BV11341167sn">B站-战疫时期的算法课-南京大学-2020年春季</a>
 
