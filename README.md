@@ -95,6 +95,8 @@ https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 
 ## 1.3. 下载地址
 
+<font color="red" size="10">当前仓库大小为1.5GB，内容大小为</a>
+
 1、一些资料可以在github中搜索，很多，很方便
 
 2、github.com下载
@@ -103,16 +105,20 @@ https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 git clone https://github.com/JackeyLea/NJUCS --depth 1
 ```
 
-3、码云下载
+3、码云下载（无效）
 
-码云仓库最大为1G，如果仓库大小超出会被屏蔽访问，所以我删除了码云的仓库
+码云仓库最大为1G，已删除
 
-4、coding下载
+4、coding下载（无效）
 
-coding.net仓库大小为2G，经过测试速度还可以，如果github访问速度过慢可以考虑此处。
+coding.net仓库大小限制为1G，仓库已删除。
+
+5、csdn下载
+
+csdn的git仓库目前可用。
 
 ```bash
-git clone https://e.coding.net/jackeylea/njucs/NJUCS.git
+git clone https://gitcode.net/mirrors/JackeyLea/NJUCS.git
 ```
 
 ## 1.4. 联系方式
